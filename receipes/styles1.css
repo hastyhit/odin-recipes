@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul.myul, ol.myol {
+    display: inline-block;
+    text-align: left;
+}
+
+body {
+    background-color: #F0EAD6;
+}
